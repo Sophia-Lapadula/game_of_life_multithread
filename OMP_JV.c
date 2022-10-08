@@ -1,3 +1,4 @@
+//Alunos: Guilherme Lourenço - 143172 / Sara Mota - 148205 / Sophia Lapadula - 148282
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
